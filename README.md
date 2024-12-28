@@ -80,7 +80,3 @@
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=imarslanjavascriptor&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-
---- 
-
-This update ensures a more polished, professional presentation while maintaining the structure and content you initially created.
