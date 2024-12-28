@@ -1,6 +1,3 @@
-![logo](https://github.com/imArslanJavaScriptor/imArslanJavaScriptor/blob/main/banner.png)
-Here's a more polished and professional version of your GitHub README:
-
 ![Banner](https://github.com/imArslanJavaScriptor/imArslanJavaScriptor/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Muhammad Arslan</h1>
