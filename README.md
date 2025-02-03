@@ -1,6 +1,6 @@
 <!-- Hero Section with Gradient Border -->
 <div align="center" style="border: 3px solid transparent; border-radius: 15px; border-image: linear-gradient(45deg, #22D3EE, #3B82F6); border-image-slice: 1; padding: 20px; margin: 20px 0;">
-  <img src="https://github.com/imArslanJavaScriptor/imArslanJavaScriptor/blob/main/banner.png" alt="Banner" width="100%" style="border-radius: 12px;">
+  <img src="https://github.com/imArslanJavaScriptor/imArslanJavaScriptor/blob/main/Banner.png" alt="Banner" width="100%" style="border-radius: 12px;">
 </div>
 
 <!-- Animated Professional Title -->
