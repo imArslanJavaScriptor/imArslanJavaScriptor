@@ -1,108 +1,116 @@
-<!-- Hero Section with Gradient Border -->
-<div align="center" style="border: 3px solid transparent; border-radius: 15px; border-image: linear-gradient(45deg, #22D3EE, #3B82F6); border-image-slice: 1; padding: 20px; margin: 20px 0;">
-  <img src="https://github.com/imArslanJavaScriptor/imArslanJavaScriptor/blob/main/Banner.png" alt="Banner" width="100%" style="border-radius: 12px;">
-</div>
-
-<!-- Animated Professional Title -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Architect;💡+Solutions+Engineer;🔐+Secure+Code+Advocate;🤝+Client-Focused+Developer" alt="Typing SVG">
-  </a>
-</h1>
-
-<!-- Achievement Ribbons -->
-<p align="center">
-  <a href="https://leetcode.com/imArslanJavaScriptor/"><img src="https://img.shields.io/badge/LeetCode-Top_5%25_Global-FFA116?style=flat&logo=leetcode&logoColor=black"></a>
-  <a href="https://www.linkedin.com/in/findarslan/"><img src="https://img.shields.io/badge/LinkedIn-3K+ Connections-0077B5?style=flat&logo=linkedin"></a>
-  <a href="https://github.com/imArslanJavaScriptor?tab=repositories"><img src="https://img.shields.io/badge/Projects_Delivered-30+-brightgreen?style=flat&logo=github"></a>
-</p>
-
-<!-- Full-Stack Technology Matrix -->
-<h2 align="center">🔧 Full-Stack Toolbox</h2>
-
 <div align="center">
-  <h3>Frontend Mastery</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,figma,threejs" alt="Frontend Tech">
-  
-  <h3>Backend Expertise</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,redis,graphql,aws" alt="Backend Tech">
-</div>
 
-<!-- Professional Milestones -->
-<h2 align="center">📌 Career Highlights</h2>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=Muhammad%20Arslan&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
-<div align="center">
-  
-  **🏆 2023 Achievement**  
-  Scaled e-commerce platform to handle 10k+ concurrent users
-  
-  **🚀 2022 Milestone**  
-  Led development of AI-powered analytics dashboard (+35% user engagement)
-  
-  **💼 2021 Breakthrough**  
-  Delivered 15+ client projects with 100% satisfaction rate
+<br/>
 
-</div>
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;React+%26+Next.js+Specialist;Building+Pixel-Perfect+UIs;2.5+Years+of+Industry+Experience)](https://git.io/typing-svg)
 
-<!-- Project Showcase with Business Impact -->
-<h2 align="center">💼 Client Success Stories</h2>
-
-<div align="center">
-  
-  | Project | Impact | Stack | Demo |
-  |---------|--------|-------|------|
-  | **[Enterprise CMS](https://...)** | Reduced content update time by 40% | Next.js, NestJS, PostgreSQL | [Live Demo](https://...) |
-  | **[SAAS Platform](https://...)** | Generated $250k+ in first-year revenue | React, Node.js, AWS | [Case Study](https://...) |
-  | **[IoT Dashboard](https://...)** | Monitored 50k+ devices in real-time | TypeScript, MQTT, Redis | [Video Walkthrough](https://...) |
-
-</div>
-
-<!-- Professional Metrics Dashboard -->
-<h2 align="center">📈 Business Impact Metrics</h2>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=imArslanJavaScriptor&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Development+Momentum" />
-</div>
-
-<div align="center">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=imArslanJavaScriptor&show_icons=true&theme=nightowl&count_private=true&include_all_commits=true&hide=issues" /> 
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imArslanJavaScriptor&layout=compact&theme=nightowl&langs_count=6" />
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/wakatime?username=imArslanJavaScriptor&theme=nightowl&layout=compact" />
-</div>
-
-<!-- Client Testimonials Section -->
-<h2 align="center">📣 Client Praise</h2>
-
-<div align="center">
-  
-  > "Arslan delivered beyond expectations, implementing complex features with military precision."  
-  > **- Tech Startup CEO**
-
-  > "The most responsive developer we've worked with - turned our vision into reality in record time."  
-  > **- Fortune 500 IT Director**
-
-</div>
-
-<!-- Professional Engagement CTA -->
-<h2 align="center">🤝 Let's Create Value Together</h2>
+<br/>
 
 <p align="center">
-  <a href="mailto:imArslan7061@gmail.com">
-    <img src="https://img.shields.io/badge/Schedule_Call-30_min_Free_Consult-3B82F6?style=for-the-badge&logo=google-meet">
-  </a>
-  <a href="https://calendly.com/your-calendar">
-    <img src="https://img.shields.io/badge/Download_CV-Proven_Track_Record-22D3EE?style=for-the-badge&logo=adobe-acrobat-reader">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=muhammadarslan&label=Profile%20Views&color=7C3AED&style=flat-square" alt="profile views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20Work-✅-brightgreen?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Based%20in-Pakistan%20🇵🇰-blue?style=flat-square" />
 </p>
 
-<!-- Trust Badges -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Upwork-Top_Rated_Plus-6FDA44?style=flat&logo=upwork" />
-  <img src="https://img.shields.io/badge/Clients-95%25_Retention_Rate-green?style=flat" />
-  <img src="https://img.shields.io/badge/Code-Quality_Award_2023-blue?style=flat" />
 </div>
 
-<!-- Dynamic Footer -->
+---
+
+## 👨‍💻 About Me
+
+Hey there! I'm **Muhammad Arslan**, a passionate Frontend Developer with **2.5 years of industry experience** crafting fast, responsive, and visually stunning web experiences. I love turning complex problems into clean, elegant, and user-friendly interfaces.
+
+- 🔭 Currently working on **personal projects & open source contributions**
+- 🌱 Always leveling up my skills in **React ecosystem & modern web technologies**
+- 💼 **Open to new opportunities** — let's build something great together
+- 📍 Based in **Pakistan**
+- ⚡ Fun fact: I believe great UI is felt, not just seen
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend Core
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ⚛️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433e38?style=for-the-badge&logo=zustand&logoColor=white)
+
+### 🎨 Styling
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+
+### 🔧 Tools & Backend-as-a-Service
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadarslan&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadarslan&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117" />
+
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadarslan&theme=midnight-purple&hide_border=true&background=0d1117" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammadarslan&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadarslan&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadarslan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammadarslan.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@muhammadarslan.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadarslan)
+
+</div>
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."* — John Johnson
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=80&section=footer" />
+
 </div>
