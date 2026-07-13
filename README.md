@@ -57,7 +57,7 @@ I am a versatile and adaptive **Software Engineer** with **3+ years of professio
 ## 🔗 Let's Connect!
 
 * **LinkedIn:** [linkedin.com/in/findarslan](https://www.linkedin.com/in/findarslan/)
-* **GitHub:** [github.com/imArslanJavaScriptor](https://github.com/imArslanJavaScriptor)
+* **GitHub:** [github.com/imArslanDev](https://github.com/imArslanDev)
 * **Email:** [imarslan7061@gmail.com](mailto:imarslan7061@gmail.com)
 
 > *"Writing clean, maintainable code that solves real-world business problems."*
