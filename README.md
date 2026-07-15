@@ -1,56 +1,69 @@
 # Muhammad Arslan 👋
 
-### **Software Engineer | Full-Stack & MERN/PERN Specialist**  
-Building scalable backend architectures, high-performance frontend systems, and AI-driven digital products.
+### **Full-Stack Software Engineer | MERN Specialist**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/findarslan/)
-[![Gmail](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:imarslan7061@gmail.com)
+Building high-performance, scalable web applications and AI-integrated digital products.
 
 ---
 
-## 🚀 About Me
+## ⚡ About Me
 
-I am a versatile and adaptive **Software Engineer** with **3+ years of professional experience**. Having spent my first 2 years deeply specializing in high-performance frontend architecture, I have successfully transitioned into **full-stack engineering** over the past year. 
+I am a results-driven **Software Engineer** with **3+ years of professional experience** building web ecosystems. After spending my first two years mastering high-performance frontend architectures, I've spent the last year fully transitioning into **full-stack engineering**—specifically mastering the **MERN (MongoDB, Express.js, React, Node.js) stack**.
 
-* 🛠️ **Full-Stack Competency:** Proficient in designing robust RESTful APIs, managing complex database schemas, and building fluid user interfaces using the **MERN** and **PERN** stacks.
-* 🤖 **AI-Driven Workflows:** Experienced in embedding AI tools and building AI-first development workflows to maximize product delivery speed and performance.
-
----
-
-## 🛠️ Tech Stack & Ecosystem
-
-| Layer | Technologies |
-| :--- | :--- |
-| **Backend & APIs** | Node.js, Express.js, RESTful APIs, GraphQL |
-| **Databases** | MongoDB, PostgreSQL, MySQL |
-| **Frontend Architecture** | React.js, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS |
-| **State & Data Management** | Zustand, Redux Toolkit, Redux Saga, TanStack Query |
-| **DevOps & AI Automation** | GitHub Actions (CI/CD), Docker, Vercel, AI-first workflows |
+* 🚀 **Robust APIs:** Specialized in crafting performant, clean RESTful APIs and secure backend workflows.
+* 💾 **Data Optimization:** Experienced in optimizing MongoDB schemas, indexing, and handling complex aggregations.
+* 🤖 **AI-First Integration:** Passionate about embedding AI tools, automation, and intelligent features directly into web applications.
 
 ---
 
-## 📊 Proven Impact (Key Projects & Experience)
+## 🛠️ The MERN Stack & Ecosystem
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  MERN Stack & Full-Stack Ecosystem                          │
+├────────────┬────────────────────────────────────────────────┤
+│ Backend    │ Node.js, Express.js, RESTful APIs              │
+├────────────┼────────────────────────────────────────────────┤
+│ Database   │ MongoDB, Mongoose                              │
+├────────────┼────────────────────────────────────────────────┤
+│ Frontend   │ React.js, Next.js, TypeScript, Tailwind CSS   │
+├────────────┼────────────────────────────────────────────────┤
+│ State/Data │ Zustand, Redux Toolkit, TanStack Query         │
+├────────────┼────────────────────────────────────────────────┤
+│ DevOps/AI  │ GitHub Actions, Docker, Vercel, AI Workflows   │
+└────────────┴────────────────────────────────────────────────┘
+
+```
+
+---
+
+## 📊 Proven Impact (Key Projects)
 
 ### **1. Adology AI — Enterprise Marketing Dashboard**
-* Built the frontend architecture using **React.js & Next.js** for an enterprise B2B client.
-* Integrated **TanStack Query** for smart client-side caching, **reducing redundant REST API calls by 60%**.
 
-### **2. BigPhotoHunt.com — High-Traffic Media Social Network**
-* Created a fully responsive Next.js/TypeScript platform, driving a **35% increase in mobile user traffic**.
-* Paired **GraphQL APIs** with Redux Saga for real-time social feeds, leading to a **45% boost in active user engagement**.
-* Optimized media delivery by writing custom EXIF parsing metadata scripts, **cutting browser memory crashes by 80%**.
+* Built the scalable frontend architecture using **React.js & Next.js** to handle complex, data-heavy dashboard UI states.
+* Implemented **TanStack Query** for smart client-side caching and state synchronization, **reducing redundant API payloads by 60%**.
+* Developed fluid, responsive data visualization components to display real-time marketing metrics seamlessly.
 
-### **3. ShopLive — Full-Stack Live E-Commerce Engine**
-* Architected the entire backend infrastructure and relational database schema using the **PERN Stack** (PostgreSQL, Express, Node.js).
-* Integrated real-time video streaming capabilities to power live-shopping experiences.
+### **2. EMS — Enterprise Employee Management System**
+
+* Architected a secure, full-stack **MERN** application designed to streamline internal company operations, user access, and task flows.
+* Built the backend with **Node.js, Express, and MongoDB**, implementing robust JWT-based authentication and Role-Based Access Control (RBAC).
+* Designed an interactive React-based admin panel featuring real-time employee tracking, performance reviews, and dynamic reporting.
+
+### **3. Social Media AI Post Scheduler — Smart Automation Tool**
+
+* Designed and built a SaaS utility that allows users to write, schedule, and automatically publish social media content.
+* Integrated **AI-driven features** to automatically generate post copy, hashtags, and optimal posting times based on prompt inputs.
+* Engineered a robust cron-job queuing system in **Node.js** paired with a structured **MongoDB** database to handle timezone-aware scheduling queues flawlessly.
 
 ---
 
 ## 🌍 Open To
 
 * 💻 **Remote / International Opportunities**
-* 🏢 **Full-Time Backend & Full-Stack Roles**
-* 🤝 **Open-Source Collaborations**
+* 🏢 **Full-Time MERN & Full-Stack Software Engineer Roles**
+* 🤝 **Open-Source & AI-integrated collaborations**
 
 ---
 
@@ -58,6 +71,6 @@ I am a versatile and adaptive **Software Engineer** with **3+ years of professio
 
 * **LinkedIn:** [linkedin.com/in/findarslan](https://www.linkedin.com/in/findarslan/)
 * **GitHub:** [github.com/imArslanDev](https://github.com/imArslanDev)
-* **Email:** [imarslan7061@gmail.com](mailto:imarslan7061@gmail.com)
+* **Email:** [imarslan7061@gmail.com](https://www.google.com/search?q=mailto%3Aimarslan7061%40gmail.com)
 
 > *"Writing clean, maintainable code that solves real-world business problems."*
